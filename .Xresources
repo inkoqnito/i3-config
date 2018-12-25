@@ -1,0 +1,56 @@
+Rxvt.scrollBar:   false
+urxvt*depth: 32
+urxvt*background: #222 
+
+URxvt*font: xft:Source Code Pro:pixelsize=16
+URxvt.letterSpace: -1
+
+! special
+*.foreground:   #ffffff
+*.background:   #222
+*.cursorColor:  #c5c8c6
+
+! black
+*.color0:       #1d1f21
+*.color8:       #969896
+
+! red
+*.color1:       #bd93f9
+*.color9:       #bd93f9
+
+! green
+*.color2:       #ffffff
+*.color10:      #ffffff
+
+! yellow
+*.color3:       #bd93f9
+*.color11:      #bd93f9
+
+! blue
+*.color4:       #bd93f9
+*.color12:      #bd93f9
+
+! magenta
+*.color5:       #a36ac7
+*.color13:      #a36ac7
+
+! cyan
+*.color6:       #bd93f9
+*.color14:      #bd93f9
+
+! white
+*.color7:       #c5c8c6
+*.color15:      #ffffff
+
+
+rofi.font: Source Code Pro 16
+
+rofi.opacity:                        50
+rofi.width:                          100
+rofi.lines:                          13
+rofi.color-normal:                   argb:00000000,  #888888, argb:00000000,  #bd93f9,  #222
+rofi.color-urgent:                   argb:00000000,  #222, argb:00000000,  #222,  #222
+rofi.color-active:                   argb:00000000,  #222, #222,  #222,  #222
+rofi.color-window:                   #222,  #222, #222
+rofi.location: 1
+
