@@ -2,6 +2,10 @@ Rxvt.scrollBar:   false
 urxvt*depth: 32
 urxvt*background: #222 
 
+urxvt*transparent: true
+urxvt*shading: 30
+
+
 URxvt*font: xft:Source Code Pro:pixelsize=16
 URxvt.letterSpace: -1
 
